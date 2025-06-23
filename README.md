@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Devon Bobo
 
+## 💼 Current Role
+🧩 **Contributor Catalyst Intern**  
+🔬 **Open Source Program Office @ UC Santa Cruz**  
+📅 *Summer 2025*  
+🌱 Contributing to open source initiatives, improving documentation, and supporting community collaboration.
+
+## 💻 Skills
 🎓 Computer Science student at Southern University and A&M College, concentrating in **Cybersecurity** (Graduating May 2027). Passionate about programming, digital security, and solving real-world problems with code.
 
 ## 💻 Skills
