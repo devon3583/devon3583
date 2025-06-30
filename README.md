@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devon Bobo
 
-🎓 Computer Science student at Southern University and A&M College, concentrating in **Cybersecurity** (Graduating May 2027). Passionate about programming, digital security, and solving real-world problems with code.
+🎓 Computer Science student at Southern University A&M College, concentrating in **Cybersecurity** (Graduating May 2027). Passionate about programming, digital security, and solving real-world problems with code.
 
 ## 💼 Current Role
 🧩 **Contributor Catalyst Intern**  
